@@ -1,2 +1,2 @@
 # juliaset.github.io
-julia set
+julia set visualization in JS
